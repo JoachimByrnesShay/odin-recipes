@@ -1,0 +1,24 @@
+h1, .recipe h2, .recipe h3{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(250, 245, 245);
+    text-align:center;
+    padding: 8px;
+    width: 100%;
+}
+
+.recipe div {
+    text-align: center;
+}
+
+body {
+    padding: 0;
+}
+
+ul {
+    list-style:none;    
+}
+
+li {
+    margin: 16px 0 16px 200px;
+} 
+
